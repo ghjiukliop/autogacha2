@@ -21,17 +21,17 @@ local MainSection = MainTab:CreateSection("Main")
 
 local args1 = {
     [1] = "Christmas2024",
-    [2] = "gems"
+    [2] = "gems10"
 }
 
 local args2 = {
     [1] = "EventClover",
-    [2] = "gems"
+    [2] = "gems10"
 }
 
 local args3 = {
     [1] = "Legacy",
-    [2] = "gems"
+    [2] = "gems10"
 }
 
 local buyingChristmas = false -- Control variable for Christmas buying loop
